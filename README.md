@@ -1,5 +1,5 @@
-## Hi, I’m Muniza Zargar 👋  
-**Full-Stack Developer | ASP.NET MVC | Next.js | TypeScript | Express | MongoDB | MS SQL**
+                                                                      ## Hi, I’m Muniza Zargar  
+                                           **Full-Stack Developer | ASP.NET MVC | Next.js | TypeScript | Express | MongoDB | MS SQL**
 
 ### About Me
 I’m a passionate Full-Stack Developer who enjoys building clean, scalable, and user-focused web applications.
